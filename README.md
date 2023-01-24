@@ -4,7 +4,7 @@
 
 ## ***In this repository, I will provide all the solution from LeetCode problem set that I sloved. Most of the problem are solved using c++.***
 
-# **ARRAY**
+## **ARRAY**
 
 
    **:heart: Simple** </br>
@@ -23,7 +23,7 @@
      :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/A_Watermelon.cpp"><b>Solution</b></a>
   
   
-# **STRING**
+## **STRING**
 
 
    **:heart: Simple** </br>

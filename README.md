@@ -8,13 +8,13 @@
 
 
    **:heart: Simple** </br>
-     &nbsp;&nbsp; :eye_speech_bubble: [4A Watermelon](https://codeforces.com/problemset/problem/4/A) <span><b><----></b></span>
+     &nbsp;&nbsp; :eye_speech_bubble: [1920. Build Array from Permutation](https://codeforces.com/problemset/problem/4/A) <span><b><----></b></span>
      :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/A_Watermelon.cpp"><b>Solution</b></a>
 
   **:heart: Medium**
  </br>
-    &nbsp;&nbsp; :eye_speech_bubble: [4A Watermelon](https://codeforces.com/problemset/problem/4/A) <span><b><----></b></span>
-     :heavy_check_mark: <a href="https://github.com/Masum-SM/CodeForces/blob/main/Difficulty-800/A_Watermelon.cpp"><b>Solution</b></a>
+    &nbsp;&nbsp; :eye_speech_bubble: [4A Watermelon](https://leetcode.com/problems/build-array-from-permutation/description) <span><b><----></b></span>
+     :heavy_check_mark: <a href="https://github.com/Masum-SM/LeetCode/blob/main/Array/1920_Build_Array_from_Permutation.cpp"><b>Solution</b></a>
  
  
  **:heart: Hard**

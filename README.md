@@ -11,7 +11,7 @@
      &nbsp;&nbsp; :eye_speech_bubble: [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description) <span><b><----></b></span>
      :heavy_check_mark: <a href="https://github.com/Masum-SM/LeetCode/blob/main/Array/1920_Build_Array_from_Permutation.cpp"><b>Solution</b></a></br>
      &nbsp;&nbsp; :eye_speech_bubble: [1. Two Sum](https://leetcode.com/problems/two-sum/description/) <span><b><----></b></span>
-     :heavy_check_mark: <a href="https://github.com/Masum-SM/LeetCode/blob/main/Array/Easy/1_two_sum.cpp"><b>Solution</b></a>
+     :heavy_check_mark: <a href="https://github.com/Masum-SM/LeetCode/blob/main/Array/Easy/1_two_sum.cpp"><b>Solution</b></a></br>
      &nbsp;&nbsp; :eye_speech_bubble: [561. Array Partition](https://leetcode.com/problems/array-partition/description/) <span><b><----></b></span>
      :heavy_check_mark: <a href="https://github.com/Masum-SM/LeetCode/blob/main/Array/Easy/561.%20Array%20Partition.cpp"><b>Solution</b></a>
      
